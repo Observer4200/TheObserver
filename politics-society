@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[CATEGORY NAME] - The Observer</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header>
+        <h1>[Politics & Society]</h1>
+        <p>[Combines political analysis with societal trends, exploring how policies and movements shape our lives.]</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="politics-society.html">Politics & Society</a></li>
+                <li><a href="economy-innovation.html">Economy & Innovation</a></li>
+                <li><a href="culture.html">Culture</a></li>
+                <li><a href="future.html">Future</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Latest Articles in [CATEGORY NAME]</h2>
+        <ul>
+            <li><a href="#">Article 1</a></li>
+            <li><a href="#">Article 2</a></li>
+            <li><a href="#">Article 3</a></li>
+        </ul>
+    </section>
+</body>
+</html>
